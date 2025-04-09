@@ -1,0 +1,2 @@
+var t = 8;
+while(t>5){ t = t-1; print "hi";}
